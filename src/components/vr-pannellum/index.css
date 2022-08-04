@@ -1,0 +1,24 @@
+/* pannlume原生样式修改 */
+.panorama {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pnlm-about-msg {
+  display: none !important;
+}
+.pnlm-load-box {
+  display: none !important;
+}
+/* .pnlm-controls-container {
+  display: none !important;
+} */
+.pnlm-container {
+  background: transparent !important;
+}
+.pnlm-hotspot:hover {
+  background-color: transparent !important;
+}
+.pnlm-pointer {
+  cursor: default !important;
+}
